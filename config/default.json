@@ -1,6 +1,7 @@
 {
     "bot": {
-        "microsoftAppId": "be0c9e01-1770-48bb-9e44-67a2f3566fbb",
-        "microsoftAppPassword": "zokfeNAME6?-ltAEZ7453+_"
+      "microsoftAppId": "be0c9e01-1770-48bb-9e44-67a2f3566fbb",
+      "microsoftAppPassword": "zokfeNAME6?-ltAEZ7453+_",
+      "LUIS_MODEL_URL" : "https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/bd2bc81c-6218-4e25-a751-7ae310b7cfcd?subscription-key=2654d1f198b84eaa8b377e8894801e4c&verbose=true&timezoneOffset=0&q="
     }
 }
